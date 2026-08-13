@@ -34,7 +34,7 @@ Algorithms/
 └── requirements.txt          # وابستگی های لازم
 ```
 
-# 📝 نحوه اجرا
+## 📝 نحوه اجرا
 
 ### 1. دانلود پوشه `Algorithms`
 
@@ -50,9 +50,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
-<div align="center">
+## تصاویری از برنامه
 
-### Screenshots of the program
+<div align="center">
 
 ![Main Page](./img/1.PNG)
 ![Defect Detection](./img/2.PNG)
