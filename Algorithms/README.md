@@ -49,3 +49,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+<div align="center">
+
+### Screenshots of the program
+
+![Main Page](./img/1.PNG)
+![Defect Detection](./img/2.PNG)
+
+</div>
